@@ -1,0 +1,35 @@
+# Week Report 2
+## Summary of Presentations: Virtualization and The Raspberry Pi
+The presentation for week 2 was the basics of virtualization, how to use virtualbox, how to install Ubunto and what is a raspberry pi.
+
+Virtualization is a replication of hardware to simulate a virtual machine inside a real machine.
+
+There are two different types of virtualization which are server-side virtualization and client-side virtualization.
+Some of the benefits of virtualization are:
+* It allows running multiple OSs on one machine
+* Allows applications to be tested before intalling it in the host machine
+* It lets you experiment with untested programs
+
+![pic1](week%20ques/question%202.1.png)
+
+![pic2](week%20ques/question%203.1.png)
+
+![pic3](week%20ques/question%204.1.png)
+
+Raspberry pi is a credit-card sized computer. You can plug it into a monitor or tv. The device lets you do everything you can do on a desktop computer.
+
+5 different versions of the raspberry pi are:
+* Raspberry Pi 4
+* Raspberry pi 3
+* Pi Zero W
+* Pi 3 A+
+* Raspberry Pi 400
+
+![Specs](raspberry%20pi%20specs.png)
+
+## 5 projects you can do with a Raspberry PI:
+* Wifi extender
+* Remote controlled 3d printer
+* Language translator
+* Raspberry pi tablet
+* Media center
